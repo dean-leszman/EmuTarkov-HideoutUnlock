@@ -1,5 +1,4 @@
-Hideout Unlock mod for EmuTarkov created by Deano
+Hideout Unlock mod for EmuTarkov
 
-Enable/Disable the mod in settings.json
-
-EmuTarkov: https://reddit.com/r/EmuTarkov
+INSTRUCTIONS
+Extract contents to Server/user/mods
